@@ -1,4 +1,6 @@
 First React Native Homework that lists user info
+
+
 ![](https://github.com/elifgul98/RNFirstHw/blob/main/Homework1.gif)
 ### For Android
 
